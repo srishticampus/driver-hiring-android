@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="parent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="GreenTextInputLayout" parent="@style/TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+    <style name="modifiedEditText" parent="parent">
+        <item name="android:textSize">14dp</item>
+        <item name="android:background">@color/blackLite</item>
+        <item name="android:backgroundTint">@color/blackLite</item>
+    </style>
+</resources>

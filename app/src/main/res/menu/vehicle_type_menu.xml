@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/lmv"
+        android:icon="@drawable/lmv_icon"
+        android:title="LMV" />
+    <item android:id="@+id/hgmv"
+        android:icon="@drawable/hgmv_icon"
+        android:title="HGMV" />
+</menu>

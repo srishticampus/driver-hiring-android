@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FD6E3D</color>
+    <color name="colorPrimaryDark">#FD6E3D</color>
+    <color name="colorAccent">#FD6E3D</color>
+
+    <color name="textcolor">#04437F</color>
+    <color name="buttoncolor">#1A73C3</color>
+    <color name="textorange">#F28E2C</color>
+    <color name="darkorange">#FC6939</color>
+    <color name="lightorange">#F47D57</color>
+
+
+    <color name="colorTransparent">#00000000</color>
+    <color name = "Below_Semi_Transparent">#20FFFFFF</color>
+    <color name = "Semi_Transparent">#50FFFFFF</color>
+    <color name = "Above_Semi_Transparent">#90FFFFFF</color>
+    <color name = "Semi_Transparent_Orange">#50FFA471</color>
+    <color name = "Semi_Transparxent_Orange">#FCCFB9</color>
+    <color name="light_black">#5D5D5E</color>
+    <color name="light_grey">#E7E7E7</color>
+    <color name="light_grey_transparent">#A3E7E7E7</color>
+    <color name="bg">#f6f8fa</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="whiteLite">#f2eded</color>
+    <color name="whiteMediumTransparent">#B5FFFFFF</color>
+    <color name="whiteHighTransparent">#79FFFFFF</color>
+    <color name="whiteTransparent">#eef2eded</color>
+    <color name="blackTrans">#55000000</color>
+
+    <color name="black_graph">#3d3d40</color>
+    <color name="semiBlack">#B91C1A1A</color>
+    <color name="blackLite">#494949</color>
+    <color name="blackMedium">#313131</color>
+    <color name="grey">#c2c2c2</color>
+    <color name="greyLite">#dcdcdc</color>
+    <color name="greyLitest">#f2f2f2</color>
+    <color name="greyDark">#979797</color>
+    <color name="redDark">#EA5C4E</color>
+    <color name="redLite">#55f8aca5</color>
+    <color name="blueDark">#14204a</color>
+    <color name="blue">#0c4bb9</color>
+    <color name="blueFb">#3B5999</color>
+    <color name="yellow">#fedd00</color>
+    <color name="orange">#ffc10d</color>
+    <color name="orangeLite">#fdf2d7</color>
+    <color name="green">#20b137</color>
+    <color name="colorPrimaryLite">#777fc2dc</color>
+    <color name="pink">#ef466e</color>
+    <color name="shadow">#5fb4b4b4</color>
+    <color name="skyBlue">#00b3eb</color>
+    <color name="orange_number">#FFA471</color>
+
+    <!-- 1st Gradient color -->
+    <color name="colorGrade1">#1254ed</color>
+    <color name="colorGrade2">#ed9b01</color>
+
+    <color name="colorlinebkack">#6B6B6B</color>
+    <color name="colorText">#666666</color>
+    <color name="disable">#AE0C0C0C</color>
+    <color name="colortextsignup">#624B66</color>
+    <color name="colortextforgot">#24235F</color>
+    <color name="colortextsignupblue">#1075BD</color>
+    <color name="violet">#7E52E0</color>
+    <color name="graybox">#F4F0F9</color>
+    <color name="preg">#ECECEC</color>
+    <color name="purple_lite">#0ABB86FC</color>
+    <!-- <color name="purple_500">#fff</color>
+     <color name="purple_700">#fff</color>-->
+
+    <color name="whitee">#E5E5E5</color>
+    <color name="colorview">#CAC8C8</color>
+    <color name="hintcolor">#615E5E</color>
+    <color name="pickcolor">#3F51B5</color>
+    <color name="red">#E33670</color>
+    <color name="add_baby">#F7683A</color>
+    <color name="color_text">#B9A0F1</color>
+    <color name="orange_trans">#FFFAF7</color>
+    <color name="color_violet">#7851BD</color>
+    <color name="color_high">#ff0060</color>
+    <color name="color_low">#04a7d7</color>
+
+    <!--    <color name="redtrans">#FFF0F7</color>-->
+    <color name="redtrans">#fff0eb</color>
+    <color name="filled">#A7F9AB</color>
+    <color name="line">#FD0705</color>
+    <color name="greennew">#0BAB65</color>
+    <color name="violetpregnancy">#AC84F1</color>
+    <color name="violet_kick_1">#F1EFF0</color>
+    <color name="violet_kick_2">#E7E0F2</color>
+    <color name="violet_kick_3">#8664C2</color>
+    <color name="feed_orange">#FF524B</color>
+    <color name="bpTheme">#5e38a4</color>
+    <color name="track_feed_c1">#FFD6D4</color>
+    <color name="track_feed_c2">#FFE4E3</color>
+    <color name="track_feed_c3">#FFF5F4</color>
+    <color name="track_set_first_strart_time">#F2EFF8</color>
+    <color name="track_set_first_duration">#E7E0F2</color>
+    <color name="track_set_second_duration">#DCD3E6</color>
+    <color name="track_set_second_strart_time">#E7E1EB</color>
+    <color name="new_pre_primary">#5e38a4</color>
+    <color name="bs_g_dark_pink">#ec008b</color>
+    <color name="bs_g_dark_violet">#613bac</color>
+    <color name="bs_g_dark_blue">#25b9f1</color>
+    <color name="background_purple">#5e38a4</color>
+    <color name="background_purple_graph">#1111f0</color>
+    <color name="background_baby">#fa6960</color>
+    <color name="scrollBar">#A19D9D</color>
+
+    <color name="user_history_grey">#E9EAEC</color>
+    <color name="user_history_grey_one">#F6F6F6</color>
+</resources>
